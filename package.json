@@ -1,0 +1,27 @@
+{
+  "name": "waybackunifier",
+  "version": "1.0.0",
+  "description": "Get urls for the domain using wayback api implemented in nodejs.",
+  "main": "waybackunifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gokuld6012/waybackunifier-js.git"
+  },
+  "keywords": [
+    "wayback-unifier",
+    "wayback"
+  ],
+  "author": "Gokul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gokuld6012/waybackunifier-js/issues"
+  },
+  "homepage": "https://github.com/Gokuld6012/waybackunifier-js#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "lodash": "^4.17.11"
+  }
+}
