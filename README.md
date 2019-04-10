@@ -24,8 +24,7 @@ $ node waybackunifier google.com true
 - [] To add a package for more efficient handling of cli arguments
 
 
-Project inspired from - [Waybackunifier]
-[Waybackunifier]: <https://github.com/mhmdiaa/waybackunifier>
+Project inspired from: <https://github.com/mhmdiaa/waybackunifier>
 
 
 ### CODE REVIEW MUCH APPRECIATED :pray:
